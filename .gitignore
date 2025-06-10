@@ -2,7 +2,6 @@
 node_modules/
 
 # Tailwind output CSS files (usually built files)
-src/output.css
 dist/
 build/
 
