@@ -55,7 +55,7 @@ The purpose of this project is to demonstrate how to build a modern, responsive 
 
 Check out the live demo of the project hosted on **Netlify**:
 
-<a href="https://lugx-gaming-bootstrap-site.netlify.app/" target="_blank">Live Demo</a>
+<a href="https://tailwind-landing-page-makedonkat.netlify.app/" target="_blank">Live Demo</a>
 
 ---
 
