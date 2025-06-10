@@ -21,4 +21,9 @@
     flex-basis: 33%;
     border-radius: 30px;
   }
+
+  .item {
+    display: flex;
+    flex-basis: 30%;
+  }
 }
